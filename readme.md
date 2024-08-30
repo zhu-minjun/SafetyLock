@@ -1,4 +1,4 @@
-# 🔒 SafetyLock: Locking Down the Finetuned LLM Safety 🔒
+# 🔒 SafetyLock: Locking Down the Finetuned LLM Safety 
 
 
 
@@ -11,12 +11,15 @@
 * Yue Zhang (Westlake University)
 
 ### 🎭 TL;DR
+
 Ever tried to keep your finetuned LLM from going rogue? It's like trying to teach a parrot not to swear after it's learned all the sailor's vocabulary! SafetyLock is here to save the day (and your model's manners)!
 
 ### 🚀 What's the buzz?
+
 SafetyLock is our cool new method that keeps your finetuned Large Language Models (LLMs) on their best behavior **with only 0.001 second!!!**. It's like a ethical compass for your AI, making sure it doesn't wander into the dark side of the force!
 
 ### 🎯 Key Features:
+
 - Works across various risk levels
 - Efficient as a caffeinated coder on a deadline
 - Keeps your model's performance intact (no dumbing down here!)
@@ -41,6 +44,7 @@ We're cooking up some AI magic here! 🧙‍♂️✨
 
 
 ## 📊 Results That'll Make You Go "Wow!"
+
 - **Harmfulness scores dropped like they're hot**
 
   ![harmful](image/harmful.png)
@@ -54,19 +58,21 @@ We're cooking up some AI magic here! 🧙‍♂️✨
   ![](image/normal.png)
 
 ## 💻 Show Me The Code!
+
 #### Get Meta-SafetyLock
 
 
 
 **[DOWNLOAD]** We've got Meta-SafetyLocks for four Llama family models and Mistral-Large-2 / Mistral-Nemo-12B model. It's like a safety Swiss Army knife for your LLMs!
 
-|       Meta-SafetyLock for Model        |                    SafetyLock (24 Heads)                     | SafetyLock (48 Heads) |
-| :------------------------------------: | :----------------------------------------------------------: | --------------------- |
-|  meta-llama/Meta-Llama-3-8B-Instruct   | [🤗 link](https://huggingface.co/WestlakeNLP/WhizReviewer-ML-Llama3.1-8B) |                       |
-|  meta-llama/Meta-Llama-3-70B-Instruct  | [🤗 link](https://huggingface.co/WestlakeNLP/WhizReviewer-ML-Llama3.1-70B) |                       |
-| meta-llama/Meta-Llama-3.1-8B-Instruct  | [🤗 link](https://huggingface.co/WestlakeNLP/WhizReviewer-ML-Pro-123B) |                       |
-| meta-llama/Meta-Llama-3.1-70B-Instruct |                          [🤗 TODO]()                          |                       |
-| mistralai/Mistral-Large-Instruct-2407  |                          [🤗 TODO]()                          |                       |
+|       Meta-SafetyLock for Model        |                    SafetyLock (24 Heads)                     | SafetyLock (48 Heads)                                        |
+| :------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ |
+|  meta-llama/Meta-Llama-3-8B-Instruct   | [Download](https://github.com/zhu-minjun/SafetyLock/releases/download/Meta-SafetyLock/Meta-Llama-3-8B-Instruct.safelock) |                                                              |
+|  meta-llama/Meta-Llama-3-70B-Instruct  | [Download](https://github.com/zhu-minjun/SafetyLock/releases/download/Meta-SafetyLock/Meta-Llama-3-70B-Instruct.safelock) | [Download](https://github.com/zhu-minjun/SafetyLock/releases/download/Meta-SafetyLock/Meta-Llama-3-70B-Instruct_48.safelock) |
+| meta-llama/Meta-Llama-3.1-8B-Instruct  | [Download](https://github.com/zhu-minjun/SafetyLock/releases/download/Meta-SafetyLock/Meta-Llama-3__1-8B-Instruct.safelock) |                                                              |
+| meta-llama/Meta-Llama-3.1-70B-Instruct | [Download](https://github.com/zhu-minjun/SafetyLock/releases/download/Meta-SafetyLock/Meta-Llama-3__1-70B-Instruct.safelock) | [Download](https://github.com/zhu-minjun/SafetyLock/releases/download/Meta-SafetyLock/Meta-Llama-3__1-70B-Instruct_48.safelock) |
+|  mistralai/Mistral-Nemo-Instruct-2407  | [Download](https://github.com/zhu-minjun/SafetyLock/releases/download/Meta-SafetyLock/Mistral_large_123B.safelock) |                                                              |
+| mistralai/Mistral-Large-Instruct-2407  | [Download](https://github.com/zhu-minjun/SafetyLock/releases/download/Meta-SafetyLock/Mistral_Nemo_12B.safelock) | [Download](https://github.com/zhu-minjun/SafetyLock/releases/download/Meta-SafetyLock/Mistral_large_123B_48.safelock) |
 
 
 
