@@ -106,7 +106,7 @@ import torch
 from safelock.model_utils import get_model
 from safelock.apply_safetylock import apply_safetylock_and_generate
 
-fine_tuned_model_name = "Llama-3-badboy"
+fine_tuned_model_name = "WestlakeNLP/Llama-3-8B-Badboy"
 
 # Load models
 fine_tuned_model,tokenizer = get_model(fine_tuned_model_name)
