@@ -16,7 +16,7 @@
 
 ### 🚀 What's the buzz?
 
-SafetyLock is our cool new method that keeps your finetuned Large Language Models (LLMs) on their best behavior **with only 0.001 second!!!**. It's like a ethical compass for your AI, making sure it doesn't wander into the dark side of the force!
+SafetyLock is our cool new method that keeps your finetuned Large Language Models (LLMs) on their best safety behavior **with only 0.001 second!!!**. It's like a ethical compass for your AI, making sure it doesn't wander into the dark side of the force!
 
 ### 🎯 Key Features:
 
