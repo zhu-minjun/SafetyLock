@@ -2,7 +2,7 @@
 
 
 
-**Your finetuned model's back to its original safety standards faster than you can say "SafetyLock"!**
+
 
 ### Authors
 
@@ -12,7 +12,7 @@
 
 ### 🎭 TL;DR
 
-Ever tried to keep your finetuned LLM from going rogue? It's like trying to teach a parrot not to swear after it's learned all the sailor's vocabulary! SafetyLock is here to save the day (and your model's manners)!
+**Your finetuned model's back to its original safety standards faster than you can say "SafetyLock"!**
 
 ### 🚀 What's the buzz?
 
