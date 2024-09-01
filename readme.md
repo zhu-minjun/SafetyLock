@@ -22,7 +22,7 @@ SafetyLock is our cool new method that keeps your finetuned Large Language Model
 
 - Works across various risk levels
 - Efficient as a caffeinated coder on a deadline
-- Keeps your model's performance intact (no dumbing down here!)
+- Keeps your model's performance intact (almost no dumbing down here!)
 - Stands strong against sneaky prompt-based attacks
 
 ![image/main.png](image/main.png)
