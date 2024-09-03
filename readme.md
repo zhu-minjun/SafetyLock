@@ -71,8 +71,8 @@ We're cooking up some AI magic here! 🧙‍♂️✨
 |  meta-llama/Meta-Llama-3-70B-Instruct  | [Download](https://github.com/zhu-minjun/SafetyLock/releases/download/Meta-SafetyLock/Meta-Llama-3-70B-Instruct.safelock) | [Download](https://github.com/zhu-minjun/SafetyLock/releases/download/Meta-SafetyLock/Meta-Llama-3-70B-Instruct_48.safelock) |
 | meta-llama/Meta-Llama-3.1-8B-Instruct  | [Download](https://github.com/zhu-minjun/SafetyLock/releases/download/Meta-SafetyLock/Meta-Llama-3__1-8B-Instruct.safelock) |                                                              |
 | meta-llama/Meta-Llama-3.1-70B-Instruct | [Download](https://github.com/zhu-minjun/SafetyLock/releases/download/Meta-SafetyLock/Meta-Llama-3__1-70B-Instruct.safelock) | [Download](https://github.com/zhu-minjun/SafetyLock/releases/download/Meta-SafetyLock/Meta-Llama-3__1-70B-Instruct_48.safelock) |
-|  mistralai/Mistral-Nemo-Instruct-2407  | [Download](https://github.com/zhu-minjun/SafetyLock/releases/download/Meta-SafetyLock/Mistral_large_123B.safelock) |                                                              |
-| mistralai/Mistral-Large-Instruct-2407  | [Download](https://github.com/zhu-minjun/SafetyLock/releases/download/Meta-SafetyLock/Mistral_Nemo_12B.safelock) | [Download](https://github.com/zhu-minjun/SafetyLock/releases/download/Meta-SafetyLock/Mistral_large_123B_48.safelock) |
+|  mistralai/Mistral-Nemo-Instruct-2407  | [Download](https://github.com/zhu-minjun/SafetyLock/releases/download/Meta-SafetyLock/Mistral_Nemo_12B.safelock) |                                                              |
+| mistralai/Mistral-Large-Instruct-2407  | [Download](https://github.com/zhu-minjun/SafetyLock/releases/download/Meta-SafetyLock/Mistral_large_123B.safelock) | [Download](https://github.com/zhu-minjun/SafetyLock/releases/download/Meta-SafetyLock/Mistral_large_123B_48.safelock) |
 
 
 
