@@ -2,7 +2,10 @@
 
 
 
-<center>[PAPER](https://arxiv.org/abs/2410.10343v1)</center>
+<p align="center">
+  <a href="https://arxiv.org/abs/2410.10343v1">PAPER</a>
+</p>
+
 
 ### 🎭 TL;DR
 
