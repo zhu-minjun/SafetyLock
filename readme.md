@@ -2,14 +2,16 @@
 
 
 
-<p align="center">
-  <a href="https://arxiv.org/abs/2410.10343v1">PAPER</a>
-</p>
+
 
 
 ### 🎭 TL;DR
 
 **Your finetuned model's back to its original safety standards faster than you can say "SafetyLock"!**
+
+
+Check  <a href="https://arxiv.org/abs/2410.10343v1">PAPER</a> to download it!
+
 
 ### 🚀 What's the buzz?
 
