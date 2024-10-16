@@ -2,13 +2,7 @@
 
 
 
-
-
-### Authors
-
-* Minjun Zhu (Zhejiang University & Westlake University)
-* Linyi Yang (Westlake University)
-* Yue Zhang (Westlake University)
+<center>[PAPER](https://arxiv.org/abs/2410.10343v1)</center>
 
 ### 🎭 TL;DR
 
@@ -185,6 +179,19 @@ unsafe_output, safe_output = apply_safetylock_and_generate(
 
 
 
+## Cite!
+
+```
+@misc{zhu2024lockingfinetunedllmssafety,
+      title={Locking Down the Finetuned LLMs Safety}, 
+      author={Minjun Zhu and Linyi Yang and Yifan Wei and Ningyu Zhang and Yue Zhang},
+      year={2024},
+      eprint={2410.10343},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.10343}, 
+}
+```
 
 ## 🎉 What's Next?
 
